@@ -1,34 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4f3ab99-668b-41a2-ae9c-0a21c6e437c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../AuthServer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/RomanNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RomanNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_1338_ReduceArraySizetoTheHalf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_167_TwoSumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_189_RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_1_TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_278_FirstBadVersion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_283_MoveZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_344_ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_35_Search_Insert_Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_387_FirstUniqueChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_557_ReverseWordsinaStringIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_659_SplitArrayintoConsecutiveSubsequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_704_BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_804_UniqueMorseCodeWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_871_MinimumNumberofRefuelingStops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_977_SquaresofaSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_9_PalindromeNumber.java" afterDir="false" />
+    <list default="true" id="a4f3ab99-668b-41a2-ae9c-0a21c6e437c0" name="Changes" comment="cc">
+      <change afterPath="$PROJECT_DIR$/src/_234_PalindromeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/_200_NumberofIslands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._659_SplitArrayintoConsecutiveSubsequences">
+  <component name="RunManager" selected="Application._200_NumberofIslands">
     <configuration name="_1338_ReduceArraySizetoTheHalf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_1338_ReduceArraySizetoTheHalf" />
       <module name="Leetcode" />
@@ -79,9 +56,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_189_RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_189_RotateArray" />
+    <configuration name="_200_NumberofIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium._200_NumberofIslands" />
       <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._200_NumberofIslands" />
         <item itemvalue="Application._659_SplitArrayintoConsecutiveSubsequences" />
         <item itemvalue="Application._167_TwoSumII" />
         <item itemvalue="Application._283_MoveZeroes" />
         <item itemvalue="Application._1338_ReduceArraySizetoTheHalf" />
-        <item itemvalue="Application._189_RotateArray" />
       </list>
     </recent_temporary>
   </component>
@@ -128,8 +111,18 @@
       <workItem from="1660790720160" duration="2839000" />
       <workItem from="1660817413200" duration="162000" />
       <workItem from="1660873738794" duration="3733000" />
-      <workItem from="1660982128984" duration="1699000" />
+      <workItem from="1660982128984" duration="1748000" />
+      <workItem from="1661221631324" duration="815000" />
+      <workItem from="1661749924175" duration="283000" />
     </task>
+    <task id="LOCAL-00001" summary="cc">
+      <created>1660983860154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660983860154</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +138,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cc" />
+    <option name="LAST_COMMIT_MESSAGE" value="cc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
